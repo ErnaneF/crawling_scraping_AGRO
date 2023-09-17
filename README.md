@@ -1,2 +1,2 @@
-# crawling_scraping_AGRO
-Crawling e scraping usados para analisar sites voltados a agronomia.
+# Crawling e scraping
+Projeto voltado à analise de dados sobre agronomia
